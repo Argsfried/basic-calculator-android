@@ -1,2 +1,2 @@
-# Calculator_Android_Java
+# Calculator Android | Java
 Basic Calculator but now in Android.
