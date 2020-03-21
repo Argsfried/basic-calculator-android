@@ -1,2 +1,2 @@
 # Calculator Android | Java
-Basic Calculator but now in Android.
+Calculator made in Java but now in Android.
